@@ -3,13 +3,13 @@ body {
   font-family: "Lato", sans-serif;
   font-family: "Open Sans", sans-serif;
 }
-}
+
 .text-primary {
   color: #fd6e0a;
 }
 .btn-primary {
   border-radius: 5px;
-  background: #FD6E0A;
+  background: #fd6e0a;
   border: 0;
   color: white;
   font-size: 20px;
@@ -54,7 +54,7 @@ nav a {
 }
 /* header related style */
 .header {
-  background-color: #FFF8F3;
+  background-color: #fff8f3;
   background-image: url(/images/header_bg.png);
   background-repeat: no-repeat;
   background-position: bottom right;
@@ -92,7 +92,7 @@ nav a {
 .about {
   padding: 130px;
   border-radius: 10px;
-  background: #FFF8F3;
+  background: #fff8f3;
   margin: 130px 0;
 }
 
